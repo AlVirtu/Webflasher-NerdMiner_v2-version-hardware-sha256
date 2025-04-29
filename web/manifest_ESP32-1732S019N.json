@@ -1,0 +1,14 @@
+{
+  "name": "NerdMinerV2 ESP32-1732S019N Webflasher",
+  "new_install_prompt_erase": true,
+  "builds": [
+    {
+      "chipFamily": "ESP32-S3",
+      "parts": [
+        { "path": "ESP32-1732S019N/bootloader.bin", "offset": 4096 },
+        { "path": "ESP32-1732S019N/partitions.bin", "offset": 32768 },
+        { "path": "ESP32-1732S019N/firmware.bin", "offset": 65536 }
+      ]
+    }
+  ]
+}
