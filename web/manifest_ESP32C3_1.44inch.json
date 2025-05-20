@@ -1,0 +1,14 @@
+{
+  "name": "NerdMinerV2 ESP32C3_1.44inch Webflasher",
+  "new_install_prompt_erase": true,
+  "builds": [
+    {
+      "chipFamily": "ESP32-C3",
+      "parts": [
+        { "path": "ESP32C3_1.44inch/bootloader.bin", "offset": 0 },
+        { "path": "ESP32C3_1.44inch/partitions.bin", "offset": 32768 },
+        { "path": "ESP32C3_1.44inch/firmware.bin", "offset": 65536 }
+      ]
+    }
+  ]
+}
