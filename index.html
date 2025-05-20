@@ -84,10 +84,13 @@
       <center><h1>Webflasher NerdMiner_v2<br>version hardware sha256</h1>
       <p>Choose your hardware</p></center>
       <ul class="radios">
-        <li>
-          <center><label><input type="radio" name="type" value="ESP32-1732S019N" /> ESP32-1732S019N</label></center>
+	    <li>
+          <label><input type="radio" name="type" value="ESP32-1732S019N" /> ESP32-1732S019N</label>
         </li>
-      </ul>
+		<li>
+          <label><input type="radio" name="type" value="ESP32C3_1.44inch" /> ESP32C3_1.44inch (Brand：Spotpear)</label>
+        </li>
+	  </ul>
       <p class="button-row" align="center">
         <esp-web-install-button class="invisible"></esp-web-install-button>
       </p>
@@ -97,8 +100,7 @@
           >Webflasher Github Repo by AlVirtu</a
         > &mdash;
         Installer powered by <a href="https://esphome.github.io/esp-web-tools/">ESP Web Tools</a> 🛠️
-   <p><a href="https://www.web-counter.net" title="click counter"><img src="https://www.web-counter.net/count_20091204.php?c=0qNeBJ6L7Vn" style="border:0;padding:0;margin:0;" alt="click counter"></a></p>
-      </div>
+    </div>
      <script>
       document.querySelectorAll('input[name="type"]').forEach(radio =>
         radio.addEventListener("change", () => {
