@@ -1,5 +1,5 @@
 {
-  "name": "NerdMinerV2 ESP32-1732S019N Webflasher",
+  "name": "NerdMinerV2 ESP32-1732S019N",
   "new_install_prompt_erase": true,
   "builds": [
     {
