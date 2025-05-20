@@ -1,2 +1,3 @@
 - add ESP32-1732S019N
-- add ESP32C3_1.44inch (Brand：Spotpear) ![ESP32C3-1 44-01-250](https://github.com/jblance/ESP32C3_1.44inch/assets/1266998/493165fc-655c-428d-be0b-3ff0d213c4b2)
+- add ESP32C3_1.44inch (Brand：Spotpear)
+- ![ESP32C3-1 44-01-250](https://github.com/jblance/ESP32C3_1.44inch/assets/1266998/493165fc-655c-428d-be0b-3ff0d213c4b2)
