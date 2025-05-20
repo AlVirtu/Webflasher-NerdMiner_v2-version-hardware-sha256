@@ -1,5 +1,5 @@
 {
-  "name": "NerdMinerV2 ESP32C3_1.44inch Webflasher",
+  "name": "NerdMinerV2 ESP32C3_1.44inch (Spotpear)",
   "new_install_prompt_erase": true,
   "builds": [
     {
