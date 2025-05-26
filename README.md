@@ -4,6 +4,7 @@
 
 
 - add ESP32C3_0.96-OLED (ESP32C3 SuperMini + 0.96inch OLED Display)
+   (VCC-5V, GND-GND, SDA-pin5, SCL-pin6)
 - ![IMG_20250526_211215](https://github.com/user-attachments/assets/9c33ea0e-4594-44c0-9eea-e187a1c5aeac)
 ![IMG_20250526_211327](https://github.com/user-attachments/assets/1f0f9fc1-2737-4230-9289-83c20d9f0ad2)
-(VCC-5V, GND-GND, SDA-pin5, SCL-pin6)
+ 
