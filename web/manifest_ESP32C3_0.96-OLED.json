@@ -5,9 +5,9 @@
     {
       "chipFamily": "ESP32-C3",
       "parts": [
-        { "path": "ESP32-C3_096-OLED/bootloader.bin", "offset": 0 },
-        { "path": "ESP32-C3_096-OLED/partitions.bin", "offset": 32768 },
-        { "path": "ESP32-C3_096-OLED/firmware.bin", "offset": 65536 }
+        { "path": "ESP32C3_0.96-OLED/bootloader.bin", "offset": 0 },
+        { "path": "ESP32C3_0.96-OLED/partitions.bin", "offset": 32768 },
+        { "path": "ESP32C3_0.96-OLED/firmware.bin", "offset": 65536 }
       ]
     }
   ]
