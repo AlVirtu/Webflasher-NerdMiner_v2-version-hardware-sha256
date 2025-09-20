@@ -1,6 +1,6 @@
 - add ESP32-1732S019N-I (ESP32-S3-Wroom-1)
 - add ESP32-1732S019 (ESP32-Wroom-32, chip ESP32-DOWD-V3(rev. 3), Brand: Estardyn)
-- <img width="228" height="228" alt="185726" src="https://github.com/user-attachments/assets/0c75683a-1a6d-431c-897c-ddce5c1df92e" />
+- !<img width="228" height="228" alt="185726" src="https://github.com/user-attachments/assets/0c75683a-1a6d-431c-897c-ddce5c1df92e" />
 ![121402](https://github.com/user-attachments/assets/ed59726c-71a6-4f10-be90-5371c7e9188c)
 
 - add ESP32C3_1.44inch (Brand：Spotpear)
